@@ -1,7 +1,8 @@
 # trabalho_pratico
 
-https://lucasevanglg.github.io/trabalho_pratico/
-https://lucasevanglg.github.io/trabalho_pratico/
+SITE:https://lucasevanglg.github.io/trabalho_pratico/
+<BR>
+SITE:https://lucasevanglg.github.io/trabalho_pratico/
 
 ![image](https://github.com/user-attachments/assets/8152d068-b3e2-4901-8a4e-cd3fea29afed)
 
